@@ -1,0 +1,29 @@
+JavaScript I
+
+Lectura
+
+MDN. (s.f.). Un primer acercamiento a JavaScript. Recuperado de
+https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/A_first_splash
+
+MDN. (s.f.). Tomando decisiones en tu código - Condicionales. Recuperado de
+https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals
+
+Kantor, I. (2022). Operadores Lógicos. Recuperado de
+https://es.javascript.info/logical-operators
+
+Videos
+
+Fazt. (2018, 31 de agosto). Curso Javascript para Principiantes [Archivo de video]. Recuperado
+de https://www.youtube.com/watch?v=RqQ1d1qEWlE
+
+Fazt. (2020, 28 de diciembre). ¿Qué se puede hacer con Javascript? (Juegos, Apps, Desktop,
+ClIs, etc) [Archivo de video]. Recuperado de https://www.youtube.com/watch?v=qY2JD78kShQ
+
+jonmircha. (2020, 25 de febrero). Curso JavaScript: 13. Tipos de Operadores - #jonmircha
+[Archivo de video]. Recuperado de https://www.youtube.com/watch?v=_8Z5AeGVIXE
+
+jonmircha. (2020, 26 de febrero). Curso JavaScript: 14. Condicionales - #jonmircha [Archivo de
+video]. Recuperado de https://www.youtube.com/watch?v=9h5hyh_wDjo
+
+jonmircha. (2020, 27 de febrero). Curso JavaScript: 15. Ciclos (Loops) - #jonmircha [Archivo de
+video]. Recuperado de https://www.youtube.com/watch?v=AapgtR0Rwk0
