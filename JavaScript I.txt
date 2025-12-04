@@ -1,6 +1,6 @@
 JavaScript I
 
-Lectura
+------------- Lectura--------------
 
 MDN. (s.f.). Un primer acercamiento a JavaScript. Recuperado de
 https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/A_first_splash
@@ -11,7 +11,22 @@ https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/condition
 Kantor, I. (2022). Operadores Lógicos. Recuperado de
 https://es.javascript.info/logical-operators
 
-Videos
+De Andres, V. (2019). Funciones en Javascript. 7 formas de declarar una función. Recuperado de
+https://dev.to/victordeandres/funciones-en-javascript-7-formas-de-declarar-una-funcion-523a
+
+• Flanagan, D. (2020). JavaScript: the Definitive Guide (7a ed.). Estados Unidos: O'Reilly Media, Inc.
+
+• Haverbeke, M. (2018). ELOQUENT JAVASCRIPT (3ª ed.). Estados Unidos: No Starch Press.
+
+LenguajeJS. (s.f.). Funciones: Fragmentos de código en bloques reutilizables. Recuperado
+de https://lenguajejs.com/javascript/fundamentos/funciones/
+
+• Kantor, I. (s.f.). El lenguaje JavaScript. Recuperado de https://es.javascript.info/js
+
+• MDN. (s.f.). Funciones. Recuperado de
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions
+
+-------------- Videos-----------------
 
 Fazt. (2018, 31 de agosto). Curso Javascript para Principiantes [Archivo de video]. Recuperado
 de https://www.youtube.com/watch?v=RqQ1d1qEWlE
@@ -27,3 +42,9 @@ video]. Recuperado de https://www.youtube.com/watch?v=9h5hyh_wDjo
 
 jonmircha. (2020, 27 de febrero). Curso JavaScript: 15. Ciclos (Loops) - #jonmircha [Archivo de
 video]. Recuperado de https://www.youtube.com/watch?v=AapgtR0Rwk0
+
+Jonmircha. (2020, 20 de febrero). Curso JavaScript: 10. Funciones - #jonmircha [Archivo de
+video] Recuperado de https://www.youtube.com/watch?v=H6U1Pm7x60E
+
+Jonmircha. (2020, 6 de marzo). Curso JavaScript: 21. Arrow Functions - #jonmircha
+[Archivo de video] Recuperado de https://www.youtube.com/watch?v=WuCw9agV3Rc
